@@ -5,7 +5,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="/assets/img/logo-kenzie.png"/>
+  <img src="/assets/img/logo-kenzie.png"/>
+  <img src="/assets/img/logo-picpro.png"/>
 </div>
 
 ###
