@@ -20,3 +20,7 @@
 <p align="left">Este é o repositório do projeto 'PicPro', desenvolvido durante o evento PicPro, realizado pela Kenzie Academy em parceria com o PicPay. Este projeto envolve a criação de uma aplicação inovadora com foco em soluções financeiras, aproveitando tecnologias modernas e práticas de desenvolvimento ágil. No repositório, você encontrará o código-fonte completo e a documentação detalhada, explicando a implementação e as funcionalidades da aplicação.</p>
 
 ###
+
+<div align="center">
+  <img src="/assets/img/UI.png"/>
+</div>
